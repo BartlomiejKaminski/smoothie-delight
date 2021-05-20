@@ -1,0 +1,2 @@
+I only made form to input email and it does not do much more than saving emails in array and checks if emails is valid or user already signed up.
+I wrote an email to Mrs. Ewa Stawska with questions, where should the emails go and if its okay to put them in the js array but if have not got any answer. So I decided that I will leave the frontend how it is right now.
